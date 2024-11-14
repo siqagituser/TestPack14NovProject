@@ -11,4 +11,4 @@ packages:
   gitServerName: siqagituser
   gitUrl: https://github.com/vijetadixit
   gitUsername: siqagituser
-  gitBranch: Test2
+  gitBranch: Test
